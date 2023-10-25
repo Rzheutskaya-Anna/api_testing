@@ -2,7 +2,7 @@
 
 1) I tested all methods that are provided for https://petstore.swagger.io/ in Postman and created the corresponding collections:
  <ul>
-<li>  <a href="https://www.postman.com/descent-module-technologist-18686799/workspace/my-workspace/folder/26957300-d3fb841f-43da-46eb-9126-461e781ff38a?action=share&creator=26957300&ctx=documentation">Postamn collection for the petstore: REST</a>  </li>
+<li>  <a href="https://www.postman.com/descent-module-technologist-18686799/workspace/my-workspace/collection/26957300-bdc0771f-d77e-4c54-af31-a9bd5e932fcd?action=share&creator=26957300">Postamn collection for the petstore: REST</a>  </li>
 <li>  <a href="https://docs.google.com/spreadsheets/d/1xEKwxrtgMfoB_moPqCRQTMTBnBq2109k7cEkg_n-Iv4/edit?usp=sharing"> Test cases for "store" block </a>   </li>
 </ul>
 
